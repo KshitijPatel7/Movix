@@ -3,7 +3,7 @@ import "./style.scss";
 import HeroBanner from './heroBanner/HeroBanner';
 import Trending from './trending/Trending';
 
-HeroBanner
+HeroBanner;
 
 const home = () => {
   return (
